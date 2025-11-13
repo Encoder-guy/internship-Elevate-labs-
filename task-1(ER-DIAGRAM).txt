@@ -1,0 +1,6 @@
+Customers ───< Orders ───< Order Items >─── Products >─── Categories
+                      │
+                      │
+                  Payments
+                      │
+                  Shippers
